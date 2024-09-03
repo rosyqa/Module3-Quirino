@@ -1,0 +1,58 @@
+/*
+COLOR PALETTE
+
+Air Force Blue       #5D8DA4
+WAlnut Brown         #5D584A
+Anti-Flash White     #E9EBED
+Payne's Gray         #5D6F75
+Air Superiority Blue #69A2BF
+*/
+/* GLobal STYLES
+-----------------------------------*/
+
+
+body {
+    background: #E9EBED;
+}
+/*linkstyles*/
+a {
+    color: #69A2BF;
+}
+a:hover {
+    color: #5D8DA4;
+    text-decoration: none;
+}
+.btn {
+    background: #5D6F75;
+    color: #E9EBED;
+    text-decoration: none;
+}
+
+/* HOME
+-----------------------------*/
+.home {
+    background: url(../Assignment3Start/placeholder\ images/sharon-mccutcheon-unsplash.jpg) no-repeat;
+    background-size: cover;
+}
+.home .content-wrapper {
+    background: rgb(255 255 255 / 0.5);
+}
+
+/* PROFILE
+-----------------------------------*/
+
+/* PROJECTS
+-------------------------------------*/
+
+/* WORK EXPERIENCE
+----------------------------------------*/
+
+/* EDUCATION
+--------------------------------------*/
+
+/* FOOTER
+------------------------------*/
+footer {
+    background: #5D584A;
+    color: #E9EBED;
+}
